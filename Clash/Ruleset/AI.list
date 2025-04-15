@@ -13,6 +13,8 @@ DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,gemini.google.com
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,sydney.bing.com
+DOMAIN,learning.google.com
+DOMAIN,notebooklm.google.com
 DOMAIN-SUFFIX,ai.azure.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
@@ -25,6 +27,8 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,grazie.aws.intellij.net
 DOMAIN-SUFFIX,identrust.com
